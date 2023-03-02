@@ -2,6 +2,29 @@
 
 To show documentation about detach-mta project
 
+## Authors
+
+From IMT Nantes - FIL 2023
+
+### Tutor
+
+- LEBRE Adrien
+
+### Contributors
+
+- IMENSAR Yan
+- JALLAIS Adrien
+- KIRCHHOFFER Nicolas
+
+## Technologies
+
+- Postfix
+- Rainloop
+- React
+- mongoDB
+- nodeJS
+- IPFS
+
 ## Context : A colossal daily sending of emails
 
 'Between 2017 and 2021, nearly 300 billion emails were sent worldwide per day.' - Statistica. 2021.
